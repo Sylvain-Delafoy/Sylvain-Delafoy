@@ -1,0 +1,1 @@
+alias cata='cat -A'
